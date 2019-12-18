@@ -9,6 +9,7 @@ Go into the root of the folder and run this command to start it up
 docker-compose -f docker-compose.yml up -d
 
 Check all the 5 container are running perfectly or not
+
 docker-compose -f docker-compose.yml ps
 
-Now go to Kibana(http://localhost:5601/ and create index there and start visualizing the logs
+Now go to Kibana(http://localhost:5601/ and create index there and start visualizing the logs.
